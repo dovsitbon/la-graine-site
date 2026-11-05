@@ -1,0 +1,15 @@
+# La Graine et les Saveurs
+
+> Restaurant de couscous maison et de cuisine marocaine, algérienne et méditerranéenne, halal et sans alcool, au 7 rue Saint-Jacques, 80000 Amiens (France). Sur place, à emporter, en livraison (Uber Eats, Deliveroo) et paniers Too Good To Go. Réservation conseillée. Téléphone : 09 78 81 28 24.
+
+- Note Google : 4,9/5 sur 160 avis (relevée le 5 novembre 2026)
+- Plats : couscous (légumes, poulet, merguez, mouton, brochettes, trois viandes), tajine du jour, grillades d'agneau, poulet rôti, sandwichs, pâtisseries du Maghreb, thé à la menthe, cherbette
+- Horaires : fermé lundi et mardi ; mercredi, jeudi, samedi 11 h – 14 h 30 et 18 h – 23 h 30 ; vendredi 18 h – 23 h 30 ; dimanche 11 h – 23 h 30
+- Accessible en fauteuil roulant ; groupes bienvenus (repas de famille, anniversaires, entreprises)
+
+## Pages
+
+- [Accueil (français)](https://la-graine-et-les-saveurs.vercel.app/fr): réservation, carte, groupes, infos pratiques, FAQ
+- [La carte avec les prix](https://la-graine-et-les-saveurs.vercel.app/fr/carte)
+- [English](https://la-graine-et-les-saveurs.vercel.app/en)
+- [العربية](https://la-graine-et-les-saveurs.vercel.app/ar)

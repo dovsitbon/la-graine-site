@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "title": "Homemade couscous in Amiens, halal restaurant | La Graine et les Saveurs",
+    "description": "Homemade couscous, grills, Moroccan and Algerian cooking, halal and alcohol-free, on rue Saint-Jacques in Amiens. Dine in, takeaway or delivery.",
+    "ogAlt": "Lamb couscous served on a blue plate at La Graine et les Saveurs, Amiens"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "La Graine et les Saveurs, home",
+    "carte": "Menu",
+    "book": "Book",
+    "order": "Takeaway & delivery",
+    "groups": "Groups",
+    "infos": "Visit",
+    "instagram": "La Graine et les Saveurs on Instagram",
+    "call": "Call",
+    "lang": "Language",
+    "bookCta": "Book a table"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "announce": {
+    "close": "Close announcement"
+  },
+  "hero": {
+    "eyebrow": "Homemade couscous · Halal · Central Amiens",
+    "title": "Couscous the way it's made at home",
+    "lead": "Steamed semolina, slow-cooked vegetables, lamb, merguez and skewers. At 7 rue Saint-Jacques.",
+    "ctaBook": "Book a table",
+    "ctaMenu": "See the menu",
+    "rating": "{value}/5 on Google",
+    "ratingCount": "{count} reviews",
+    "imageAlt": "Lamb couscous with vegetables and chickpeas on a blue Tunisian plate"
+  },
+  "tiles": {
+    "title": "What people come for",
+    "couscous": "Couscous",
+    "tajines": "Tagines",
+    "grillades": "Grills",
+    "sandwichs": "Sandwiches",
+    "patisseries": "Pastries",
+    "the": "Mint tea"
+  },
+  "services": {
+    "title": "However suits you",
+    "surPlace": {
+      "title": "Dine in",
+      "text": "With family, with friends"
+    },
+    "emporter": {
+      "title": "Takeaway",
+      "text": "Call, we cook, you collect"
+    },
+    "livraison": {
+      "title": "Delivery",
+      "text": "Uber Eats and Deliveroo"
+    },
+    "tgtg": {
+      "title": "Too Good To Go",
+      "text": "Surprise bags at the end of service"
+    }
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "Couscous, grills and sweet things",
+    "lead": "Everything is halal. We don't serve alcohol: the homemade cherbette does the job nicely.",
+    "halal": "Halal meat",
+    "noAlcohol": "Alcohol-free",
+    "tabsLabel": "Menu sections",
+    "categories": {
+      "couscous": "Couscous",
+      "tajines": "Tagines",
+      "grillades": "Grills",
+      "sandwichs": "Sandwiches",
+      "desserts": "Desserts",
+      "boissons": "Drinks"
+    },
+    "intro": {
+      "couscous": "Steamed semolina, vegetable broth, chickpeas and raisins.",
+      "tajines": "Slow-cooked and served in the pot. Ask for today's.",
+      "grillades": "Lamb and chicken, grilled or roasted. With fries, or on the side of a couscous.",
+      "sandwichs": "In a baguette, with fries. Easy to take away.",
+      "desserts": "North African pastries and homemade treats.",
+      "boissons": "Mint tea, cherbette and cold drinks."
+    },
+    "priceInRoom": "Price at the restaurant",
+    "unit": "each",
+    "veg": "Meat-free",
+    "signature": "House speciality",
+    "checked": "Prices checked on {date}, for guidance. The menu at the restaurant takes precedence.",
+    "seeAll": "See the full menu",
+    "items": {
+      "couscous-legumes": {
+        "name": "Vegetable couscous",
+        "desc": "No meat: semolina, vegetables and chickpeas"
+      },
+      "couscous-poulet": {
+        "name": "Chicken couscous",
+        "desc": "A quarter chicken simmered in the broth"
+      },
+      "couscous-merguez": {
+        "name": "Merguez couscous",
+        "desc": "Two grilled merguez, vegetables, chickpeas and raisins"
+      },
+      "couscous-mouton": {
+        "name": "Lamb couscous",
+        "desc": "Lamb neck cooked in the couscous broth"
+      },
+      "couscous-brochettes": {
+        "name": "Skewer couscous",
+        "desc": "Two leg-of-lamb skewers"
+      },
+      "couscous-3-viandes": {
+        "name": "Three-meat couscous",
+        "desc": "A lamb chop, a merguez and a lamb skewer"
+      },
+      "tajine-du-jour": {
+        "name": "Tagine of the day",
+        "desc": "Depends on the market: ask at the restaurant or by phone"
+      },
+      "brochette-agneau": {
+        "name": "Lamb skewer",
+        "desc": "Sold individually, as many as you like"
+      },
+      "cote-agneau": {
+        "name": "Lamb chop",
+        "desc": "Grilled, sold individually"
+      },
+      "merguez-grillees": {
+        "name": "Grilled merguez",
+        "desc": "Three pieces"
+      },
+      "poulet-roti": {
+        "name": "Whole roast chicken",
+        "desc": "Spit-roasted, for sharing"
+      },
+      "demi-poulet": {
+        "name": "Half roast chicken",
+        "desc": "Spit-roasted"
+      },
+      "croquettes-poulet": {
+        "name": "Chicken croquettes",
+        "desc": "Homemade, Spanish style, five pieces"
+      },
+      "sandwich-merguez": {
+        "name": "Merguez and fries sandwich",
+        "desc": "Baguette, two merguez, fries"
+      },
+      "sandwich-poulet": {
+        "name": "Chicken and fries sandwich",
+        "desc": "Baguette, chicken, fries"
+      },
+      "barquette-frites": {
+        "name": "Fries",
+        "desc": "Golden and crisp"
+      },
+      "gateaux-maghreb": {
+        "name": "North African pastries",
+        "desc": "Gazelle horn, makroud and griouch, four pieces"
+      },
+      "fondant-cacahuete": {
+        "name": "Chocolate peanut square",
+        "desc": "Small cake coated in chocolate"
+      },
+      "the-gourmand": {
+        "name": "Tea or coffee with sweets",
+        "desc": "With brownies, chocolate peanut bites and a cookie"
+      },
+      "cherbette": {
+        "name": "Cherbette",
+        "desc": "Homemade lemonade with milk and orange blossom"
+      },
+      "the-menthe": {
+        "name": "Mint tea",
+        "desc": "Sweet, with fresh mint"
+      },
+      "cafe": {
+        "name": "Coffee",
+        "desc": "Served in a cup"
+      },
+      "diabolo-menthe": {
+        "name": "Mint diabolo",
+        "desc": "Lemonade with mint syrup"
+      },
+      "eau-menthe": {
+        "name": "Mint cordial",
+        "desc": "Water with mint syrup"
+      },
+      "sodas": {
+        "name": "Soft drinks",
+        "desc": "Coca-Cola, Fanta, Ice Tea"
+      },
+      "eau-plate": {
+        "name": "Still water",
+        "desc": ""
+      },
+      "eau-gazeuse": {
+        "name": "Sparkling water",
+        "desc": "Perrier or San Pellegrino"
+      }
+    }
+  },
+  "house": {
+    "eyebrow": "Our couscous",
+    "title": "Light grains, and a broth that took its time",
+    "paragraphs": [
+      "The semolina is steamed, then worked by hand so it stays light, grain by grain.",
+      "The broth simmers with carrots, courgettes, turnips, pumpkin, chickpeas and raisins.",
+      "Then pick your meat: tender lamb neck, merguez, leg-of-lamb skewers or chicken. Or all three, if you're hungry."
+    ],
+    "cta": "See the couscous",
+    "imageAlt": "A plate of vegetable couscous with pumpkin and carrots, held above the table"
+  },
+  "order": {
+    "eyebrow": "Takeaway & delivery",
+    "title": "Couscous at home",
+    "takeaway": {
+      "title": "Takeaway",
+      "text": "Give us a call: we'll tell you when to come by and it'll be ready.",
+      "cta": "Call to order"
+    },
+    "delivery": {
+      "title": "Delivery",
+      "text": "Order on your usual app, anywhere in Amiens."
+    },
+    "tgtg": {
+      "title": "Too Good To Go",
+      "text": "At the end of service, a surprise bag at a small price. Look for La Graine et les Saveurs in the app.",
+      "cta": "Open Too Good To Go"
+    }
+  },
+  "groups": {
+    "eyebrow": "Groups",
+    "title": "A long table for big occasions",
+    "lead": "Family meals, birthdays, team lunches: tell us how many you are and we'll get the room and the food ready.",
+    "points": [
+      "Family meals",
+      "Birthdays",
+      "Companies and associations"
+    ],
+    "cta": "Ask about a group",
+    "imageAlt": "Table laid with couscous, roast chicken and cherbette, in front of the blue wall"
+  },
+  "ramadan": {
+    "eyebrow": "Ramadan",
+    "title": "Ftour at La Graine et les Saveurs",
+    "lead": "Every evening we're open, come and break your fast with us: soup, dates, a main, sweets and tea.",
+    "soon": "From {date}",
+    "menuTitle": "The ftour menu",
+    "menu": [
+      "Chorba",
+      "Dates and milk",
+      "Couscous or grill",
+      "North African pastries",
+      "Mint tea"
+    ],
+    "price": "Price at the restaurant",
+    "hoursTitle": "Ramadan opening hours",
+    "cta": "Book for ftour"
+  },
+  "reviews": {
+    "eyebrow": "Your feedback",
+    "title": "What you say about us",
+    "rating": "{value} out of 5",
+    "count": "{count} Google reviews",
+    "checked": "Rating checked on {date}",
+    "ranking": "No. {rank} of {of} restaurants in Amiens on {source}",
+    "cta": "Read the reviews on Google",
+    "leave": "Leave a review"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "In central Amiens, on rue Saint-Jacques",
+    "address": "Address",
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "access": "Getting here",
+    "accessText": "Right in the centre, a few minutes' walk from the cathedral and the Saint-Leu quarter.",
+    "accessibility": "Accessibility",
+    "accessibilityText": "The dining room is wheelchair accessible.",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "closed": "Closed",
+    "directions": "Directions",
+    "mapTitle": "Map: 7 rue Saint-Jacques, Amiens",
+    "hoursNote": "Hours may change over the holidays and during Ramadan: the banner at the top of the page will tell you."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Good to know",
+    "items": [
+      {
+        "q": "Is the meat halal?",
+        "a": "Yes, all our meat is halal: lamb, chicken and merguez. And we don't serve alcohol."
+      },
+      {
+        "q": "Do I need to book?",
+        "a": "It's a good idea, especially on Friday evenings and at weekends. Book online or call us on +33 9 78 81 28 24."
+      },
+      {
+        "q": "Do you take groups?",
+        "a": "Yes, for family meals, birthdays or work outings. Send a group request with the number of people and we'll call you back to arrange the table."
+      },
+      {
+        "q": "Do you deliver?",
+        "a": "Yes, through Uber Eats and Deliveroo, within Amiens. For takeaway, call us and come and collect your order."
+      },
+      {
+        "q": "How does Too Good To Go work?",
+        "a": "At the end of service we offer surprise bags with what's left of the day, at a small price. Reserve yours in the Too Good To Go app, then collect it at the time shown."
+      },
+      {
+        "q": "How can I pay?",
+        "a": "You pay at the restaurant: there's no online payment. For delivery, Uber Eats also accepts meal vouchers."
+      },
+      {
+        "q": "Do you have meat-free dishes?",
+        "a": "Yes: the vegetable couscous, fries and several sweets. Tell us about any allergy and we'll point you to what suits you."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Booking",
+    "title": "Book a table",
+    "lead": "Pick the day and time. We'll confirm by email or phone.",
+    "groupTitle": "Group request",
+    "groupLead": "Give us the date, the number of people and the occasion: we'll call you back to arrange the table and the menu.",
+    "tabs": {
+      "table": "A table",
+      "group": "A group"
+    },
+    "date": "Date",
+    "chooseDate": "Choose a date",
+    "time": "Arrival time",
+    "chooseTime": "Choose a time",
+    "noTimes": "No times left that day. Please choose another day.",
+    "guests": "Number of people",
+    "group": "Is it a group?",
+    "yes": "Yes",
+    "no": "No",
+    "groupHint": "From {n} people, we'll call you back to arrange the table.",
+    "occasion": "Occasion",
+    "occasions": {
+      "family": "Family meal",
+      "birthday": "Birthday",
+      "company": "Company",
+      "other": "Other"
+    },
+    "request": "Special request",
+    "requestPh": "Allergy, pushchair, a quiet table…",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "submit": "Send request",
+    "submitGroup": "Send group request",
+    "sending": "Sending…",
+    "privacy": "Your details are only used to confirm this booking.",
+    "errors": {
+      "date": "Choose a date",
+      "time": "Choose a time",
+      "name": "Enter your name",
+      "phone": "Invalid phone number",
+      "email": "Invalid email address",
+      "server": "Your request couldn't be sent. Give us a call, it's even quicker."
+    },
+    "done": {
+      "title": "Request received",
+      "text": "Thank you, {name}. We'll get back to you shortly to confirm your table on {when}.",
+      "mail": "A summary has been sent to your email.",
+      "notSent": "Our mailbox isn't connected yet: to be sure of your table, please call us with this time.",
+      "again": "Make another request"
+    },
+    "callInstead": "Rather call?",
+    "mail": {
+      "subject": "Booking request",
+      "title": "New booking request",
+      "when": "Date and time",
+      "guests": "Guests",
+      "group": "Group",
+      "yes": "yes",
+      "no": "no",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "request": "Special request",
+      "lang": "Customer language",
+      "confirmSubject": "Your booking request at La Graine et les Saveurs",
+      "confirmIntro": "Hello {name},\n\nWe've received your booking request. We'll confirm your table as soon as possible.",
+      "confirmOutro": "See you soon,\nLa Graine et les Saveurs\n7 rue Saint-Jacques, 80000 Amiens · +33 9 78 81 28 24"
+    }
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "footer": {
+    "tagline": "Homemade couscous, Moroccan and Algerian cooking. Halal, alcohol-free, in central Amiens.",
+    "delivery": "Delivery",
+    "menu": "Menu",
+    "legal": "Legal notice",
+    "rights": "© {year} La Graine et les Saveurs"
+  },
+  "pages": {
+    "carte": {
+      "metaTitle": "Menu and prices | La Graine et les Saveurs, Amiens",
+      "metaDescription": "The full menu of La Graine et les Saveurs in Amiens, with prices: merguez, lamb, skewer and three-meat couscous, tagines, grills, sandwiches, North African pastries, cherbette.",
+      "title": "The menu"
+    },
+    "legal": {
+      "metaTitle": "Legal notice | La Graine et les Saveurs",
+      "title": "Legal notice",
+      "editor": "Publisher",
+      "editorText": "La Graine et les Saveurs, restaurant, 7 rue Saint-Jacques, 80000 Amiens, France. Phone: +33 9 78 81 28 24.",
+      "company": "Company name",
+      "siret": "SIRET",
+      "pending": "to be completed",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "The details from the booking form (name, phone, email, request) are only used to handle your booking. They are never sold or used for advertising. You can ask for them to be deleted by calling the restaurant.",
+      "cookies": "Cookies",
+      "cookiesText": "This site uses no advertising or analytics cookies. One technical cookie only remembers your language.",
+      "photos": "Photos",
+      "photosText": "Photos: La Graine et les Saveurs. No reproduction without permission."
+    }
+  },
+  "alt": {
+    "couscous-mouton-assiette-bleue": "Lamb couscous with vegetables and chickpeas on a blue Tunisian plate",
+    "table-vue-du-dessus": "Table seen from above: couscous, roast chicken, skewers, merguez and cherbette",
+    "couscous-mouton": "Lamb couscous on a blue and white plate",
+    "couscous-legumes": "Vegetable couscous with pumpkin and carrots",
+    "table-couscous-grillades": "Couscous and grills shared on a wooden table",
+    "merguez-grillees": "Grilled merguez",
+    "brochettes-agneau": "Grilled lamb skewers",
+    "cotes-agneau": "Grilled lamb chops",
+    "poulet-roti": "Roast chicken, carved, on a metal platter",
+    "cherbette": "A glass of cherbette, lemonade with milk and orange blossom",
+    "table-dressee-mur-bleu": "Table laid in front of the blue wall of the dining room",
+    "salle-mur-bleu": "The dining room: blue wall, red rug and wooden tables"
+  }
+}

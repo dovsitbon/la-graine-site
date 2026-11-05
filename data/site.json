@@ -1,0 +1,22 @@
+{
+  "name": "La Graine et les Saveurs",
+  "nameAr": "الحبّة والنّكهات",
+  "url": "https://la-graine-et-les-saveurs.vercel.app",
+  "phone": "09 78 81 28 24",
+  "phoneIntl": "+33978812824",
+  "whatsapp": "",
+  "email": "",
+  "address": { "street": "7 rue Saint-Jacques", "postalCode": "80000", "city": "Amiens", "region": "Hauts-de-France", "country": "FR" },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Graine+et+les+Saveurs+7+rue+Saint-Jacques+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=La+Graine+et+les+Saveurs,+7+rue+Saint-Jacques,+80000+Amiens&z=16&output=embed",
+  "reviewsUrl": "https://www.google.com/maps/search/?api=1&query=La+Graine+et+les+Saveurs+Amiens",
+  "instagram": "https://www.instagram.com/lagraineetlessaveurs/",
+  "instagramHandle": "@lagraineetlessaveurs",
+  "uberEats": "https://www.ubereats.com/fr/store/la-graine-et-les-saveurs/4rhiediVSlSLxVjnQpcegA",
+  "deliveroo": "https://deliveroo.fr/fr/menu/amiens/saint-germain-les-halles-saint-leu-notre-dame/la-graine-et-les-saveurs-7-rue-saint-jacques",
+  "tooGoodToGo": "https://www.toogoodtogo.com/fr",
+  "rating": { "value": 4.9, "count": 160, "source": "Google", "checked": "2026-11-05" },
+  "ranking": { "rank": 4, "of": 65, "source": "Rankeat" },
+  "reservation": { "maxGuests": 40, "groupFrom": 8, "lastSeatingMinutes": 45, "stepMinutes": 15 },
+  "legal": { "company": "", "siret": "", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

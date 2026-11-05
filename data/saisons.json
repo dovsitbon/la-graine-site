@@ -1,0 +1,4 @@
+{
+  "_doc": "Section saisonnière Ramadan : visible seulement entre from et to (inclus). Pour la montrer au restaurant avant l'heure : ajouter ?apercu=ramadan à l'adresse. Le menu ftour (plats, prix) est À CONFIRMER : remplir menu (ids de locales/*.json → ramadan.menu) et price (null = prix sur place).",
+  "ramadan": { "from": "2027-01-25", "to": "2027-03-09", "start": "2027-02-08", "price": null }
+}

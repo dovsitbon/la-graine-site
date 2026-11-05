@@ -1,0 +1,50 @@
+{
+ "/media/hero/couscous-mouton-assiette-bleue.jpg": [
+  1440,
+  1800
+ ],
+ "/media/hero/table-vue-du-dessus.jpg": [
+  1440,
+  1440
+ ],
+ "/media/plats/couscous-mouton.jpg": [
+  1280,
+  1600
+ ],
+ "/media/plats/couscous-legumes.jpg": [
+  1440,
+  1440
+ ],
+ "/media/plats/table-couscous-grillades.jpg": [
+  1440,
+  1440
+ ],
+ "/media/plats/merguez-grillees.jpg": [
+  430,
+  340
+ ],
+ "/media/plats/brochettes-agneau.jpg": [
+  350,
+  290
+ ],
+ "/media/plats/cotes-agneau.jpg": [
+  320,
+  260
+ ],
+ "/media/plats/poulet-roti.jpg": [
+  420,
+  500
+ ],
+ "/media/plats/cherbette.jpg": [
+  340,
+  440
+ ],
+ "/media/salle/table-dressee-mur-bleu.jpg": [
+  1440,
+  1440
+ ],
+ "/media/salle/salle-mur-bleu.jpg": [
+  1280,
+  1600
+ ]
+}

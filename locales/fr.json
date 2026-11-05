@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "title": "Couscous maison à Amiens, restaurant halal | La Graine et les Saveurs",
+    "description": "Couscous maison, grillades, cuisine marocaine et algérienne, halal et sans alcool, rue Saint-Jacques à Amiens. Sur place, à emporter, en livraison.",
+    "ogAlt": "Couscous au mouton servi dans une assiette bleue, La Graine et les Saveurs à Amiens"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer",
+    "home": "La Graine et les Saveurs, accueil",
+    "carte": "La carte",
+    "book": "Réserver",
+    "order": "À emporter & livraison",
+    "groups": "Groupes",
+    "infos": "Infos",
+    "instagram": "Instagram de La Graine et les Saveurs",
+    "call": "Appeler",
+    "lang": "Langue",
+    "bookCta": "Réserver"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "announce": {
+    "close": "Fermer l'annonce"
+  },
+  "hero": {
+    "eyebrow": "Couscous maison · Halal · Amiens centre",
+    "title": "Le couscous comme à la maison",
+    "lead": "Semoule à la vapeur, légumes mijotés, agneau, merguez et brochettes. Au 7 rue Saint-Jacques.",
+    "ctaBook": "Réserver une table",
+    "ctaMenu": "Voir la carte",
+    "rating": "{value}/5 sur Google",
+    "ratingCount": "{count} avis",
+    "imageAlt": "Couscous au mouton, légumes et pois chiches, servi dans une assiette tunisienne bleue"
+  },
+  "tiles": {
+    "title": "Ce qu'on vient manger",
+    "couscous": "Couscous",
+    "tajines": "Tajines",
+    "grillades": "Grillades",
+    "sandwichs": "Sandwichs",
+    "patisseries": "Pâtisseries",
+    "the": "Thé à la menthe"
+  },
+  "services": {
+    "title": "Comme vous voulez",
+    "surPlace": {
+      "title": "Sur place",
+      "text": "En salle, en famille, entre amis"
+    },
+    "emporter": {
+      "title": "À emporter",
+      "text": "Appelez, on prépare, vous passez"
+    },
+    "livraison": {
+      "title": "Livraison",
+      "text": "Uber Eats et Deliveroo"
+    },
+    "tgtg": {
+      "title": "Too Good To Go",
+      "text": "Paniers surprise en fin de service"
+    }
+  },
+  "carte": {
+    "eyebrow": "La carte",
+    "title": "Couscous, grillades et douceurs",
+    "lead": "Tout est halal. On ne sert pas d'alcool : la cherbette maison fait très bien l'affaire.",
+    "halal": "Viandes halal",
+    "noAlcohol": "Sans alcool",
+    "tabsLabel": "Catégories de la carte",
+    "categories": {
+      "couscous": "Couscous",
+      "tajines": "Tajines",
+      "grillades": "Grillades",
+      "sandwichs": "Sandwichs",
+      "desserts": "Desserts",
+      "boissons": "Boissons"
+    },
+    "intro": {
+      "couscous": "Semoule cuite à la vapeur, sauce aux légumes, pois chiches et raisins.",
+      "tajines": "Cuits doucement, servis dans leur plat. Demandez celui du jour.",
+      "grillades": "Agneau et poulet, grillés ou rôtis. Avec des frites ou en complément d'un couscous.",
+      "sandwichs": "En baguette, avec des frites. Pratique à emporter.",
+      "desserts": "Petits gâteaux du Maghreb et douceurs maison.",
+      "boissons": "Thé à la menthe, cherbette et boissons fraîches."
+    },
+    "priceInRoom": "Prix en salle",
+    "unit": "la pièce",
+    "veg": "Sans viande",
+    "signature": "Spécialité maison",
+    "checked": "Prix relevés le {date}, à titre indicatif. La carte du jour fait foi.",
+    "seeAll": "Voir toute la carte",
+    "items": {
+      "couscous-legumes": {
+        "name": "Couscous aux légumes",
+        "desc": "Sans viande : semoule, légumes et pois chiches"
+      },
+      "couscous-poulet": {
+        "name": "Couscous poulet",
+        "desc": "Un quart de poulet mijoté dans la sauce"
+      },
+      "couscous-merguez": {
+        "name": "Couscous merguez",
+        "desc": "Deux merguez grillées, légumes, pois chiches et raisins"
+      },
+      "couscous-mouton": {
+        "name": "Couscous mouton",
+        "desc": "Collier d'agneau cuit dans la sauce du couscous"
+      },
+      "couscous-brochettes": {
+        "name": "Couscous brochettes",
+        "desc": "Deux brochettes de gigot d'agneau"
+      },
+      "couscous-3-viandes": {
+        "name": "Couscous trois viandes",
+        "desc": "Une côte d'agneau, une merguez et une brochette d'agneau"
+      },
+      "tajine-du-jour": {
+        "name": "Tajine du jour",
+        "desc": "Selon le marché : demandez-le en salle ou par téléphone"
+      },
+      "brochette-agneau": {
+        "name": "Brochette d'agneau",
+        "desc": "À l'unité, autant que vous voulez"
+      },
+      "cote-agneau": {
+        "name": "Côte d'agneau",
+        "desc": "Grillée, à l'unité"
+      },
+      "merguez-grillees": {
+        "name": "Merguez grillées",
+        "desc": "Les trois"
+      },
+      "poulet-roti": {
+        "name": "Poulet rôti entier",
+        "desc": "Cuit à la rôtissoire, à partager"
+      },
+      "demi-poulet": {
+        "name": "Demi-poulet rôti",
+        "desc": "Cuit à la rôtissoire"
+      },
+      "croquettes-poulet": {
+        "name": "Croquettes de poulet",
+        "desc": "Maison, à la façon espagnole, par cinq"
+      },
+      "sandwich-merguez": {
+        "name": "Sandwich merguez frites",
+        "desc": "Baguette, deux merguez, frites"
+      },
+      "sandwich-poulet": {
+        "name": "Sandwich poulet frites",
+        "desc": "Baguette, poulet, frites"
+      },
+      "barquette-frites": {
+        "name": "Barquette de frites",
+        "desc": "Dorées et croustillantes"
+      },
+      "gateaux-maghreb": {
+        "name": "Petits gâteaux du Maghreb",
+        "desc": "Corne de gazelle, makroud et griouch, quatre pièces"
+      },
+      "fondant-cacahuete": {
+        "name": "Fondant chocolat cacahuète",
+        "desc": "Petit gâteau nappé de chocolat"
+      },
+      "the-gourmand": {
+        "name": "Thé ou café gourmand",
+        "desc": "Avec brownies, bouchées chocolat cacahuète et un cookie"
+      },
+      "cherbette": {
+        "name": "Cherbette",
+        "desc": "Citronnade maison, lait et fleur d'oranger"
+      },
+      "the-menthe": {
+        "name": "Thé à la menthe",
+        "desc": "Sucré, à la menthe fraîche"
+      },
+      "cafe": {
+        "name": "Café",
+        "desc": "Servi en tasse"
+      },
+      "diabolo-menthe": {
+        "name": "Diabolo menthe",
+        "desc": "Limonade et sirop de menthe"
+      },
+      "eau-menthe": {
+        "name": "Menthe à l'eau",
+        "desc": "Eau et sirop de menthe"
+      },
+      "sodas": {
+        "name": "Sodas",
+        "desc": "Coca-Cola, Fanta, Ice Tea"
+      },
+      "eau-plate": {
+        "name": "Eau plate",
+        "desc": ""
+      },
+      "eau-gazeuse": {
+        "name": "Eau gazeuse",
+        "desc": "Perrier ou San Pellegrino"
+      }
+    }
+  },
+  "house": {
+    "eyebrow": "Le couscous maison",
+    "title": "Une graine légère, une sauce qui a pris son temps",
+    "paragraphs": [
+      "La semoule est cuite à la vapeur, puis travaillée à la main pour rester légère, grain par grain.",
+      "La sauce mijote avec les carottes, les courgettes, les navets, le potiron, les pois chiches et les raisins.",
+      "Pour la viande, choisissez : collier d'agneau fondant, merguez, brochettes de gigot ou poulet. Ou les trois viandes, pour les grandes faims."
+    ],
+    "cta": "Voir les couscous",
+    "imageAlt": "Assiette de couscous aux légumes, potiron et carottes, tenue au-dessus de la table"
+  },
+  "order": {
+    "eyebrow": "À emporter & livraison",
+    "title": "Le couscous chez vous",
+    "takeaway": {
+      "title": "À emporter",
+      "text": "Appelez-nous : on vous dit quand passer, c'est prêt à votre arrivée.",
+      "cta": "Appeler pour commander"
+    },
+    "delivery": {
+      "title": "Livraison",
+      "text": "Commandez sur votre application habituelle, dans Amiens."
+    },
+    "tgtg": {
+      "title": "Too Good To Go",
+      "text": "En fin de service, un panier surprise à petit prix. Cherchez La Graine et les Saveurs dans l'application.",
+      "cta": "Ouvrir Too Good To Go"
+    }
+  },
+  "groups": {
+    "eyebrow": "Groupes",
+    "title": "Une grande table pour les grandes occasions",
+    "lead": "Repas de famille, anniversaire, déjeuner d'équipe : dites-nous combien vous êtes, on prépare la salle et les plats.",
+    "points": [
+      "Repas de famille",
+      "Anniversaires",
+      "Entreprises et associations"
+    ],
+    "cta": "Demander pour un groupe",
+    "imageAlt": "Table dressée avec couscous, poulet rôti et cherbette, devant le mur bleu de la salle"
+  },
+  "ramadan": {
+    "eyebrow": "Ramadan",
+    "title": "Le ftour à La Graine et les Saveurs",
+    "lead": "Chaque soir d'ouverture, on vous attend pour rompre le jeûne : soupe, dattes, plat, douceurs et thé.",
+    "soon": "À partir du {date}",
+    "menuTitle": "Le menu ftour",
+    "menu": [
+      "Chorba",
+      "Dattes et lait",
+      "Couscous ou grillade",
+      "Pâtisseries orientales",
+      "Thé à la menthe"
+    ],
+    "price": "Prix sur place",
+    "hoursTitle": "Horaires pendant le Ramadan",
+    "cta": "Réserver pour le ftour"
+  },
+  "reviews": {
+    "eyebrow": "Vos retours",
+    "title": "Ce que vous en dites",
+    "rating": "{value} sur 5",
+    "count": "{count} avis Google",
+    "checked": "Note relevée le {date}",
+    "ranking": "{rank}e sur {of} restaurants d'Amiens selon {source}",
+    "cta": "Lire les avis sur Google",
+    "leave": "Laisser un avis"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Au centre d'Amiens, rue Saint-Jacques",
+    "address": "Adresse",
+    "hours": "Horaires",
+    "phone": "Téléphone",
+    "access": "Venir",
+    "accessText": "En plein centre, à quelques minutes à pied de la cathédrale et du quartier Saint-Leu.",
+    "accessibility": "Accessibilité",
+    "accessibilityText": "Salle accessible en fauteuil roulant.",
+    "days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "closed": "Fermé",
+    "directions": "Itinéraire",
+    "mapTitle": "Plan d'accès : 7 rue Saint-Jacques, Amiens",
+    "hoursNote": "Horaires susceptibles de changer pendant les fêtes et le Ramadan : le bandeau en haut de page vous prévient."
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Bon à savoir",
+    "items": [
+      {
+        "q": "La viande est-elle halal ?",
+        "a": "Oui, toutes nos viandes sont halal : agneau, poulet et merguez. Et nous ne servons pas d'alcool."
+      },
+      {
+        "q": "Faut-il réserver ?",
+        "a": "C'est conseillé, surtout le vendredi soir et le week-end. Réservez en ligne ou appelez-nous au 09 78 81 28 24."
+      },
+      {
+        "q": "Accueillez-vous les groupes ?",
+        "a": "Oui, pour les repas de famille, les anniversaires ou les sorties d'entreprise. Envoyez une demande de groupe avec le nombre de personnes, on vous rappelle pour organiser la table."
+      },
+      {
+        "q": "Livrez-vous à domicile ?",
+        "a": "Oui, via Uber Eats et Deliveroo, dans Amiens. Pour emporter, appelez-nous et passez chercher votre commande."
+      },
+      {
+        "q": "Comment fonctionne Too Good To Go ?",
+        "a": "En fin de service, nous proposons des paniers surprise avec ce qui reste du jour, à petit prix. Réservez votre panier dans l'application Too Good To Go, puis venez le chercher à l'heure indiquée."
+      },
+      {
+        "q": "Quels moyens de paiement acceptez-vous ?",
+        "a": "Vous réglez sur place, au restaurant : il n'y a pas de paiement en ligne. En livraison, Uber Eats accepte aussi les titres-restaurant."
+      },
+      {
+        "q": "Avez-vous des plats sans viande ?",
+        "a": "Oui : le couscous aux légumes, les frites et plusieurs douceurs. Dites-nous si vous avez une allergie, on vous indique ce qui convient."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Réservation",
+    "title": "Réserver une table",
+    "lead": "Choisissez le jour et l'heure. On vous confirme par e-mail ou par téléphone.",
+    "groupTitle": "Demande pour un groupe",
+    "groupLead": "Indiquez la date, le nombre de personnes et l'occasion : on vous rappelle pour organiser la table et le menu.",
+    "tabs": {
+      "table": "Une table",
+      "group": "Un groupe"
+    },
+    "date": "Date",
+    "chooseDate": "Choisir une date",
+    "time": "Heure d'arrivée",
+    "chooseTime": "Choisir l'heure",
+    "noTimes": "Plus de créneau ce jour-là. Choisissez un autre jour.",
+    "guests": "Nombre de personnes",
+    "group": "C'est un groupe ?",
+    "yes": "Oui",
+    "no": "Non",
+    "groupHint": "À partir de {n} personnes, on vous rappelle pour organiser la table.",
+    "occasion": "Occasion",
+    "occasions": {
+      "family": "Repas de famille",
+      "birthday": "Anniversaire",
+      "company": "Entreprise",
+      "other": "Autre"
+    },
+    "request": "Demande particulière",
+    "requestPh": "Allergie, poussette, table au calme…",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "submit": "Envoyer la demande",
+    "submitGroup": "Envoyer la demande de groupe",
+    "sending": "Envoi…",
+    "privacy": "Vos coordonnées servent seulement à confirmer cette réservation.",
+    "errors": {
+      "date": "Choisissez une date",
+      "time": "Choisissez une heure",
+      "name": "Indiquez votre nom",
+      "phone": "Numéro de téléphone invalide",
+      "email": "Adresse e-mail invalide",
+      "server": "La demande n'a pas pu partir. Appelez-nous, c'est encore plus rapide."
+    },
+    "done": {
+      "title": "Demande bien reçue",
+      "text": "Merci {name}. Nous revenons vers vous très vite pour confirmer votre table du {when}.",
+      "mail": "Un récapitulatif vous a été envoyé par e-mail.",
+      "notSent": "Notre boîte mail n'est pas encore branchée : pour être sûr d'avoir votre table, appelez-nous en indiquant ce créneau.",
+      "again": "Faire une autre demande"
+    },
+    "callInstead": "Vous préférez appeler ?",
+    "mail": {
+      "subject": "Demande de réservation",
+      "title": "Nouvelle demande de réservation",
+      "when": "Date et heure",
+      "guests": "Personnes",
+      "group": "Groupe",
+      "yes": "oui",
+      "no": "non",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "request": "Demande particulière",
+      "lang": "Langue du client",
+      "confirmSubject": "Votre demande de réservation à La Graine et les Saveurs",
+      "confirmIntro": "Bonjour {name},\n\nNous avons bien reçu votre demande de réservation. Nous vous confirmons la table au plus vite.",
+      "confirmOutro": "À très bientôt,\nLa Graine et les Saveurs\n7 rue Saint-Jacques, 80000 Amiens · 09 78 81 28 24"
+    }
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "footer": {
+    "tagline": "Couscous maison, cuisine marocaine et algérienne. Halal, sans alcool, au centre d'Amiens.",
+    "delivery": "Livraison",
+    "menu": "La carte",
+    "legal": "Mentions légales",
+    "rights": "© {year} La Graine et les Saveurs"
+  },
+  "pages": {
+    "carte": {
+      "metaTitle": "La carte et les prix | La Graine et les Saveurs, Amiens",
+      "metaDescription": "Toute la carte de La Graine et les Saveurs à Amiens, avec les prix : couscous merguez, mouton, brochettes, trois viandes, tajines, grillades, sandwichs, pâtisseries orientales, cherbette.",
+      "title": "La carte"
+    },
+    "legal": {
+      "metaTitle": "Mentions légales | La Graine et les Saveurs",
+      "title": "Mentions légales",
+      "editor": "Éditeur du site",
+      "editorText": "La Graine et les Saveurs, restaurant, 7 rue Saint-Jacques, 80000 Amiens. Téléphone : 09 78 81 28 24.",
+      "company": "Raison sociale",
+      "siret": "SIRET",
+      "pending": "en cours de renseignement",
+      "host": "Hébergeur",
+      "data": "Données personnelles",
+      "dataText": "Les informations du formulaire de réservation (nom, téléphone, e-mail, demande) servent uniquement à traiter votre réservation. Elles ne sont ni revendues ni utilisées à des fins publicitaires. Vous pouvez demander leur suppression en appelant le restaurant.",
+      "cookies": "Cookies",
+      "cookiesText": "Le site n'utilise pas de cookie publicitaire ni de mesure d'audience. Un cookie technique retient seulement la langue choisie.",
+      "photos": "Photos",
+      "photosText": "Photos : La Graine et les Saveurs. Toute reproduction est interdite sans autorisation."
+    }
+  },
+  "alt": {
+    "couscous-mouton-assiette-bleue": "Couscous au mouton, légumes et pois chiches, dans une assiette tunisienne bleue",
+    "table-vue-du-dessus": "Table vue du dessus : couscous, poulet rôti, brochettes, merguez et cherbette",
+    "couscous-mouton": "Couscous au mouton dans une assiette bleue et blanche",
+    "couscous-legumes": "Couscous aux légumes, potiron et carottes",
+    "table-couscous-grillades": "Couscous et grillades partagés sur une table en bois",
+    "merguez-grillees": "Merguez grillées",
+    "brochettes-agneau": "Brochettes d'agneau grillées",
+    "cotes-agneau": "Côtes d'agneau grillées",
+    "poulet-roti": "Poulet rôti découpé sur un plat en métal",
+    "cherbette": "Verre de cherbette, citronnade au lait et à la fleur d'oranger",
+    "table-dressee-mur-bleu": "Table dressée devant le mur bleu de la salle",
+    "salle-mur-bleu": "La salle du restaurant, mur bleu, tapis rouge et tables en bois"
+  }
+}

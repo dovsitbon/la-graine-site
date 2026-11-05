@@ -1,0 +1,41 @@
+{
+  "_doc": "La carte (une page, des onglets). Prix relevés le 5 novembre 2026 sur Uber Eats et Deliveroo (le plus bas des deux) : À CONFIRMER avec la carte du restaurant (story « Menu »), les prix en salle peuvent différer. price: null = « prix en salle ». image: chemin dans public/media (npm run media) ou null = illustration au trait, en attendant la photo. Noms et descriptions : locales/*.json → carte.items.<id>.",
+  "checked": "2026-11-05",
+  "categories": [
+    { "id": "couscous", "items": ["couscous-legumes", "couscous-poulet", "couscous-merguez", "couscous-mouton", "couscous-brochettes", "couscous-3-viandes"] },
+    { "id": "tajines", "items": ["tajine-du-jour"] },
+    { "id": "grillades", "items": ["brochette-agneau", "cote-agneau", "merguez-grillees", "poulet-roti", "demi-poulet"] },
+    { "id": "sandwichs", "items": ["croquettes-poulet", "sandwich-merguez", "sandwich-poulet", "barquette-frites"] },
+    { "id": "desserts", "items": ["gateaux-maghreb", "fondant-cacahuete", "the-gourmand"] },
+    { "id": "boissons", "items": ["cherbette", "the-menthe", "cafe", "diabolo-menthe", "eau-menthe", "sodas", "eau-plate", "eau-gazeuse"] }
+  ],
+  "items": {
+    "couscous-legumes": { "price": 13.6, "image": "/media/plats/couscous-legumes.jpg", "veg": true },
+    "couscous-poulet": { "price": 16.25, "image": null, "illustration": "couscous" },
+    "couscous-merguez": { "price": 17.9, "image": "/media/plats/merguez-grillees.jpg" },
+    "couscous-mouton": { "price": 19.3, "image": "/media/plats/couscous-mouton.jpg", "signature": true },
+    "couscous-brochettes": { "price": 20.7, "image": "/media/plats/brochettes-agneau.jpg" },
+    "couscous-3-viandes": { "price": 21.4, "image": "/media/plats/table-couscous-grillades.jpg" },
+    "tajine-du-jour": { "price": null, "image": null, "illustration": "tajine" },
+    "brochette-agneau": { "price": 4.5, "image": "/media/plats/brochettes-agneau.jpg", "unit": true },
+    "cote-agneau": { "price": 4.95, "image": "/media/plats/cotes-agneau.jpg", "unit": true },
+    "merguez-grillees": { "price": 6.5, "image": "/media/plats/merguez-grillees.jpg" },
+    "poulet-roti": { "price": 17.15, "image": "/media/plats/poulet-roti.jpg" },
+    "demi-poulet": { "price": 8.6, "image": "/media/plats/poulet-roti.jpg" },
+    "croquettes-poulet": { "price": 7.9, "image": null, "illustration": "croquettes" },
+    "sandwich-merguez": { "price": 8.6, "image": null, "illustration": "sandwich" },
+    "sandwich-poulet": { "price": 8.6, "image": null, "illustration": "sandwich" },
+    "barquette-frites": { "price": 3.25, "image": null, "illustration": "frites", "veg": true },
+    "gateaux-maghreb": { "price": 7.8, "image": null, "illustration": "patisseries" },
+    "fondant-cacahuete": { "price": 1.4, "image": null, "illustration": "patisseries", "unit": true },
+    "the-gourmand": { "price": 9.5, "image": null, "illustration": "theiere" },
+    "cherbette": { "price": 5.4, "image": "/media/plats/cherbette.jpg", "signature": true },
+    "the-menthe": { "price": 2.0, "image": null, "illustration": "theiere" },
+    "cafe": { "price": 2.9, "image": null, "illustration": "tasse" },
+    "diabolo-menthe": { "price": 3.64, "image": null, "illustration": "verre" },
+    "eau-menthe": { "price": 3.25, "image": null, "illustration": "verre" },
+    "sodas": { "price": 2.9, "image": null, "illustration": "verre" },
+    "eau-plate": { "price": 3.25, "image": null, "illustration": "verre" },
+    "eau-gazeuse": { "price": 3.6, "image": null, "illustration": "verre" }
+  }
+}

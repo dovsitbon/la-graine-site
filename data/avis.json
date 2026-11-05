@@ -1,0 +1,4 @@
+{
+  "_doc": "Emplacements pour de vrais avis, recopiés avec l'accord de leurs auteurs depuis la story « Vos retours » (jamais copiés de Google). Format : { \"name\": \"Prénom N.\", \"date\": \"2026-10\", \"text\": { \"fr\": \"…\", \"ar\": \"…\", \"en\": \"…\" } }. Tant que la liste est vide, la section n'affiche que la note Google.",
+  "items": []
+}
